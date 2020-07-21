@@ -1,15 +1,15 @@
 {
-  "header": {
-    "timestamp": "2015-01-27T08:43:25Z",
-    "resultdescription": "OK",
-    "resultuilanguage": "ENG",
-    "resultuimessage": "Successfully get BRE results"
-  },
-  "body": {
-    "referenceid": "4b7f87dc-7b20-43d9-bb76-bcc9c7eed860",
-    "data": {
-      "order_no": "123456789"
-    },
-    "resultcode": "api.001"
-  }
+  "resultcode": "api.001",
+  "resultdescription": "OK",
+  "resultuilanguage": "ENG",
+  "resultuimessage": "OK",
+  "forceupdate": "false",
+  "productratio": "0.01",
+  "referralon": "true",
+  "appsettings": [
+    {
+      "settingkey": "pointtransthreshold",
+      "value": "2000"
+    }
+  ]
 }
